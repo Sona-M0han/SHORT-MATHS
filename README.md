@@ -1,3 +1,3 @@
 # SHORT-MATHS
 
-Some SIMPLE basic programs 
+Some SIMPLE basic programs in PYTHON3
